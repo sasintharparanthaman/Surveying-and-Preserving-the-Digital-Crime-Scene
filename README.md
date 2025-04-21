@@ -1,7 +1,7 @@
 # Surveying and Preserving the Digital Crime Scene
 
-Name:P.Sasinthar.
-Reg.no:212223230199
+# Name:P.Sasinthar.
+# Reg.no:212223230199
 
 ## **Aim:**
 Data recovery from unallocated space, using forensic tools(Autospy) to extract and analyze data.
